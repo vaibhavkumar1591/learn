@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
         <Navbar />
         <Section
-          title="Section 1.1"
+          title="Section 1.11"
           subtitle={dummyText}
           dark={true}
           id="section1"
